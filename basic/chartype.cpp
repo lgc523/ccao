@@ -8,5 +8,5 @@ int main()
     cout << "holla! ";
     cout << "Thank you for the " << ch << " character." << endl;
     return EXIT_SUCCESS;
-    //cin cout convert
+    // cin cout convert
 }
